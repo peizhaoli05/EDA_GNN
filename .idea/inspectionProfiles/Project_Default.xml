@@ -1,0 +1,32 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="torch.zeros" />
+          <option value="torch.exp" />
+          <option value="torch.abs" />
+          <option value="torch.backends.cudnn" />
+          <option value="torch.cat" />
+          <option value="torch.from_numpy" />
+          <option value="torch.bmm" />
+          <option value="torch.transpose" />
+          <option value="torch.sum" />
+          <option value="torch.mean" />
+          <option value="torchvision.transforms.functional" />
+          <option value="torch.mm" />
+          <option value="torch.index_select" />
+          <option value="torch.zeros_like" />
+          <option value="torch.FloatTensor" />
+          <option value="torch.sigmoid" />
+          <option value="torch.ones" />
+          <option value="torch.add" />
+          <option value="torch.sub" />
+          <option value="torch.nonzero" />
+          <option value="torch.tan" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>

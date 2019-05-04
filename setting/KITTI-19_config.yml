@@ -1,0 +1,15 @@
+# ---------- Tracking Setting for Sequence KITTI-19 ----------
+ID_assign_init                      : 30
+ID_birth_init                       : -10
+DeathBufferLength                   : 2000
+BirthBufferLength                   : 5000
+DeathCount                          : 8
+BirthCount                          : 2
+Threshold                           : -3
+Distance                            : 0.075
+BoxRation                           : 0.3
+FrameWidth                          : 1238
+FrameHeight                         : 374
+fps                                 : 10
+PredictThreshold                    : 0.015
+# ------------------------------------------------------------

@@ -1,0 +1,15 @@
+# -------- Tracking Setting for Sequence ADL-Rundle-3 --------
+ID_assign_init                      : 30
+ID_birth_init                       : -10
+DeathBufferLength                   : 2000
+BirthBufferLength                   : 5000
+DeathCount                          : 8
+BirthCount                          : 4
+Threshold                           : -3
+Distance                            : 0.05
+BoxRation                           : 0.3
+FrameWidth                          : 1920
+FrameHeight                         : 1080
+fps                                 : 15
+PredictThreshold                    : 0.005
+# ------------------------------------------------------------

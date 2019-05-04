@@ -1,0 +1,23 @@
+# ------------------------- Options -------------------------
+mode                         : 0   # 0 for debug
+description                  : net_1024
+device                       : "3"
+epochs                       : 40000
+gammas                       : [0.1, 0.1, 0.1]
+schedule                     : [10000, 20000, 30000]
+learning_rate                : 0.001
+optimizer                    : Adam
+entirety                     : True
+model                        : net_1024
+# ----------------------- God Save Me -----------------------
+save_model                   : True
+dampening                    : 0.9
+lr_patience                  : 10
+momentum                     : 0.9
+decay                        : 0.0005
+start_epoch                  : 0
+print_freq                   : 10
+checkpoint                   : 10
+n_threads                    : 2
+result                       : result
+# --------------------------- End ---------------------------

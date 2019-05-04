@@ -1,0 +1,15 @@
+# ------------- Tracking Setting for Sequence 03 -------------
+ID_assign_init                      : 100
+ID_birth_init                       : -10
+DeathBufferLength                   : 4000
+BirthBufferLength                   : 8000
+DeathCount                          : 10
+BirthCount                          : 5
+Threshold                           : -3
+Distance                            : 0.04
+BoxRation                           : 0.3
+FrameWidth                          : 1920
+FrameHeight                         : 1080
+fps                                 : 15
+PredictThreshold                    : 0.005
+# ------------------------------------------------------------

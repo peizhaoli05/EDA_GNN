@@ -1,0 +1,15 @@
+# -------- Tracking Setting for Sequence TUD-Crossing --------
+ID_assign_init                      : 30
+ID_birth_init                       : -10
+DeathBufferLength                   : 2000
+BirthBufferLength                   : 5000
+DeathCount                          : 12
+BirthCount                          : 2
+Threshold                           : -3
+Distance                            : 0.04
+BoxRation                           : 0.3
+FrameWidth                          : 640
+FrameHeight                         : 480
+fps                                 : 25
+PredictThreshold                    : 0.005
+# ------------------------------------------------------------
