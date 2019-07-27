@@ -3,7 +3,7 @@ A PyTorch implementation combines with Siamese Network and Graph Neural Network 
 
 Dataset available at [https://motchallenge.net/]
 
-According paper can be find at [https://arxiv.org/abs/1907.05315]
+According paper can be found at [https://arxiv.org/abs/1907.05315]
 
 # How to run
 Use `python main.py` to train a model from scratch. Settings for training is in `config.yml`.  
