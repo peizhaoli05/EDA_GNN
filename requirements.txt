@@ -6,4 +6,4 @@ easydict==1.7
 torch==0.4.1
 Pillow==6.0.0
 motmetrics==1.1.3
-PyYAML==5.1
+PyYAML==5.4
